@@ -10,6 +10,7 @@ A imagem abaixo é apenas um primeiro rascunho do tabuleiro final. Futuramente c
 ## Personagens 
 
 ![Idle](https://github.com/lynapax/Warbbits/blob/main/Data/Fighter%20modelo%203D%20-%20idle.gif)
+
 ![Modelo 3D do Fighter](https://github.com/lynapax/Warbbits/blob/main/Arquivos%20Blender/Concepts%20e%20modelos/Coelho%20-%20modelo%203D%20simplificado.png)
 
 * Fogo  : (4 Personagens)
